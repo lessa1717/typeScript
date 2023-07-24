@@ -5,7 +5,7 @@ let prompt = PromptSync();
 no console a contagem regressiva até 0. */
 export function regressiva() {
 
-    let numero;
+    let numero:number;
     numero = parseInt(prompt("Digite um número: "));
 
     while (numero >= 0) {

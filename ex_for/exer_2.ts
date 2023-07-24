@@ -4,7 +4,7 @@ const prompt = PromptSync();
 /* 2. Imprimir números pares de 1 a 10. */
 export function imprimirNumParde1a10() {
 
-    let numero;
+    let numero:number;
 
     for (let index = 2; index <= 10; index += 2) {
 

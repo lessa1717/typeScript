@@ -18,8 +18,8 @@ num2 ++
 }while (soma < 100 ); */
 
 export function somaDe1a100() {
-    let resultado = 0;
-    let contador = 1;
+    let resultado:number = 0;
+    let contador:number = 1;
 
     while (contador <= 100) {
         resultado = resultado + contador;

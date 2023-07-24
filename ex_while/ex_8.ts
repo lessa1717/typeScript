@@ -9,9 +9,9 @@ maior que 18. */
 
 export function verificarMaiorIdade() {
     
-    /* console.log("Faça um programa que receba nome e a idade do usuário, enquanto aresposta do usuário for menor que 18 anos continue a solicitar a idade e mostre uma mensagem quando a idade do usuário for maior que 18.");
-     */
-    let pessoa ={
+    console.log("Faça um programa que receba nome e a idade do usuário, enquanto aresposta do usuário for menor que 18 anos continue a solicitar a idade e mostre uma mensagem quando a idade do usuário for maior que 18.");
+    //  */
+    let pessoa = {
         nome: "",
         idade: 0,
     }

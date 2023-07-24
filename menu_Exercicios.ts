@@ -1,15 +1,15 @@
 import PromptSync from "prompt-sync";
 
-import { imprimirDe1a10 } from "./ex_for/exer_1.js";
-import { imprimirNumParde1a10 } from "./ex_for/exer_2.js";
-import { imprimirNumImpar0a50 } from "./ex_for/exer_3.js";
-import { tabuada } from "./ex_for/exer_4.js";
-import { fibonacci } from "./ex_for/exer_5.js";
-import { imprimirPar0a20 } from "./ex_while/ex_6.js";
-import { somaDe1a100 } from "./ex_while/ex_7.js";
-import { verificarMaiorIdade } from "./ex_while/ex_8.js";
-import { regressiva } from "./ex_while/ex_9.js";
-import { repetirSeDef0 } from "./ex_while/ex_10.js";
+import { imprimirDe1a10 } from "./ex_for/exer_1";
+import { imprimirNumParde1a10 } from "./ex_for/exer_2";
+import { imprimirNumImpar0a50 } from "./ex_for/exer_3";
+import { tabuada } from "./ex_for/exer_4";
+import { fibonacci } from "./ex_for/exer_5";
+import { imprimirPar0a20 } from "./ex_while/ex_6";
+import { somaDe1a100 } from "./ex_while/ex_7";
+import { verificarMaiorIdade } from "./ex_while/ex_8";
+import { regressiva } from "./ex_while/ex_9";
+import { repetirSeDef0 } from "./ex_while/ex_10";
 
 const prompt = PromptSync();
 

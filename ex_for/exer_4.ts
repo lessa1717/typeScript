@@ -5,15 +5,15 @@ let prompt = PromptSync();
 qualquer escolhido pelo usuário até o 10. */
 export function tabuada() {
 
-    let numero = parseInt(prompt("Digite um número que deseja saber a tabuada: "));
+    // let numero = parseInt(prompt("Digite um número que deseja saber a tabuada: "));
 
-    let tabuada;
+    let tabuada:number;
 
     for (let index = 1; index <= 10; index++) {
 
         tabuada = (numero * index);
 
-        console.log(+ numero + "x" + index + "=" + tabuada);
+        console.log('${numero} x + ${index } =  ${tabuada}');
 
     }
 }

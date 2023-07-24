@@ -3,7 +3,7 @@ const prompt = PromptSync();
 
 /* 3. Faça um programa que imprima os números ímpares de 0 a 50; */
 export function imprimirNumImpar0a50() {
-    let numero;
+    let numero: number;
 
     for (let index = 1; index <= 50; index += 2) {
 

@@ -5,7 +5,7 @@ let prompt = PromptSync();
 /* 1.  utilizando o loop for */
 
 export function imprimirDe1a10() {
-    let numero : Number ;
+    let numero : number ;
 
     console.log("Imprimir números de 1 a 10");
 

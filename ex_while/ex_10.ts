@@ -5,7 +5,7 @@ let prompt = PromptSync();
 a pedir o número se o numero for diferente de 0. */
 
 export function repetirSeDef0() {
-    let numero;
+    let numero:number;
 
     do {
 
