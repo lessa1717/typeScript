@@ -5,7 +5,7 @@ let prompt = PromptSync();
 qualquer escolhido pelo usuário até o 10. */
 export function tabuada() {
 
-    // let numero = parseInt(prompt("Digite um número que deseja saber a tabuada: "));
+    let numero = parseInt(prompt("Digite um número que deseja saber a tabuada: "));
 
     let tabuada:number;
 
